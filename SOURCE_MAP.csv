@@ -1,0 +1,4 @@
+source_archive,original_filename,new_path
+drive-download-20260921T142043Z-1-001.zip,MandelBrot Plot.ipynb,notebooks/01_mandelbrot_visualisation.ipynb
+drive-download-20260921T142043Z-1-001.zip,ploting a vector field.ipynb,notebooks/02_vector_field_visualisation.ipynb
+drive-download-20260921T142043Z-1-001.zip,CP_Chapter_8.ipynb,notebooks/03_chapter_8_exercises.ipynb
