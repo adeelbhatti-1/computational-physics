@@ -11,3 +11,4 @@ __pycache__/
 *.out
 .DS_Store
 Thumbs.db
+SOURCE_MAP.csv
